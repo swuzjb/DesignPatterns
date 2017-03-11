@@ -1,4 +1,4 @@
-package com.swu.ObserverPattern;
+package site.zhanjingbo.ObserverPattern;
 
 /**
  * A类观察者实现

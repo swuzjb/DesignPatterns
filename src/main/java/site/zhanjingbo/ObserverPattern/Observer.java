@@ -1,4 +1,4 @@
-package com.swu.ObserverPattern;
+package site.zhanjingbo.ObserverPattern;
 
 /**
  * 观察者的抽象接口，所有观察者需要实现此接口

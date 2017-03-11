@@ -1,4 +1,4 @@
-package com.swu.ObserverPattern;
+package site.zhanjingbo.ObserverPattern;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.swu.ObserverPattern;
+package site.zhanjingbo.ObserverPattern;
 
 public class ObserverPatternMain {
 	public static void main(String[] args) {
